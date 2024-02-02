@@ -25,8 +25,7 @@ namespace kissasovellus
         {
             kissaLista.Text = "Persialainen";
             Console.WriteLine("Heipparallaa");
-            int numero = 1;
-            numero++;
+            
 
         }
     }
