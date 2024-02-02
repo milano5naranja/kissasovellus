@@ -24,6 +24,9 @@ namespace kissasovellus
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             kissaLista.Text = "Persialainen";
+            Console.WriteLine("Heipparallaa");
+            int numero = 1;
+            numero++;
 
         }
     }

@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Valitse kissa" HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Height="48" Width="135" Click="Button_Click"/>
+        <Button Content="Valitse kissa" HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Height="48" Width="371" Click="Button_Click"/>
         <TextBox HorizontalAlignment="Left" Margin="454,0,0,0" TextWrapping="Wrap" Name ="kissaLista" Text="kissaLista" VerticalAlignment="Center" Width="223" Height="249" FontSize="16"/>
 
     </Grid>

@@ -1,0 +1,3 @@
+kissasovellus/obj/*
+kissasovellus/bin/*
+kissasovellus/.vs/
