@@ -20,5 +20,11 @@ namespace kissasovellus
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            kissaLista.Text = "Persialainen";
+
+        }
     }
 }
